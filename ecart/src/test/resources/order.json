@@ -1,0 +1,42 @@
+{
+  "user": {
+    "id": 1,
+    "firstName": "Ben",
+    "lastName": "CA",
+    "address": "SL12GG",
+    "email": "ben@gmail.com",
+    "phoneNumber": "9765234567"
+  },
+  "id": 1,
+  "orderItems": [
+    {
+      "id": 1,
+      "quantity": 2,
+      "product": {
+        "productId": 1,
+        "supplierId": 1001,
+        "stockCount": 94,
+        "price": 549.0,
+        "description": "An apple mobile which is nothing like apple",
+        "title": "iPhone 9",
+        "category": "smartphones",
+        "brand": "Apple"
+      }
+    },
+    {
+      "id": 2,
+      "quantity": 1,
+      "product": {
+        "productId": 2,
+        "supplierId": 1002,
+        "stockCount": 34,
+        "price": 899.0,
+        "description": "SIM-Free Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with",
+        "title": "iPhone X",
+        "category": "smartphones",
+        "brand": "Apple"
+      }
+    }
+  ],
+  "paymentReferenceId": "948f8934-bb39-4fba-ab80-cb0144cd8551"
+}
